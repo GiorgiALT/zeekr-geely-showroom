@@ -28,13 +28,6 @@
                 </div>
             </div>
             
-            <div class="relative">
-                <div class="bg-white/10 backdrop-blur-sm p-8 rounded-2xl">
-                    <img src="https://via.placeholder.com/600x400/C2174F/FFFFFF?text=Zeekr+Car" 
-                         alt="Featured Car" 
-                         class="rounded-lg shadow-2xl">
-                </div>
-            </div>
         </div>
     </div>
 </section>

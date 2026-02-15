@@ -5,7 +5,7 @@
         
         <!-- Header -->
         <div class="mb-8">
-            <h1 class="text-4xl font-bold" style="color: #55080D;">Edit Car</h1>
+            <h1 class="text-4xl font-bold" style="color: #f39c12;">Edit Car</h1>
             <p class="text-gray-600 mt-2">Update the details of {{ $car->brand }} {{ $car->model }}</p>
         </div>
 

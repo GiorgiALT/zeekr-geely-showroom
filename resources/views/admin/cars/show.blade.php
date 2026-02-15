@@ -10,13 +10,9 @@
                 <p class="text-gray-600 mt-2">Detailed vehicle information</p>
             </div>
             <div class="flex gap-3">
-                <a href="{{ route('admin.cars.edit', $car) }}" 
-                   class="px-6 py-3 text-white font-bold rounded-lg shadow-lg hover:opacity-90 transition"
-                   style="background-color: #C2174F;">
-                    Edit Car
-                </a>
+                
                 <a href="{{ route('admin.cars.index') }}" 
-                   class="px-6 py-3 text-gray-700 font-bold rounded-lg border-2 border-gray-300 hover:bg-gray-50 transition">
+                   class="px-6 py-3 text-gray-700 font-bold rounded-lg border-2 border-gray-300 hover:bg-white bg-gray-100 transition">
                     Back to List
                 </a>
             </div>

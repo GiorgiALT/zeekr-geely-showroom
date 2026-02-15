@@ -10,8 +10,7 @@
                 <p class="text-gray-600 mt-2">View, edit, and manage all vehicles in your inventory</p>
             </div>
             <a href="{{ route('admin.cars.create') }}" 
-               class="px-6 py-3 rounded-lg text-white font-bold shadow-lg hover:opacity-90 transition"
-               style="background-color: #C2174F;">
+               class="px-6 py-3 rounded-lg text-white font-bold shadow-lg hover:opacity-90 transition bg-green-500 border-gray-400 border-2">
                 + Add New Car
             </a>
         </div>
