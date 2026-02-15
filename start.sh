@@ -1,4 +1,3 @@
 #!/bin/bash
 
-# Start Apache
-apache2-foreground
+exec apache2-foreground
